@@ -11,7 +11,7 @@
 
 ###  🤝  Employment status
 
-Готов к новым предложений.
+Готов к новым предложениям.
 
 ### Languages & Tools
 ![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
