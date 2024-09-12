@@ -18,5 +18,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-69b5cc?style=for-the-badge&logo=docker)
 
 ### Follow Me \ Связаться со мной
-[![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](shidmiodi@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)]( shidmiodi@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/dmshipov)
