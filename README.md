@@ -18,7 +18,7 @@ Feel free to check out my portfolio! 🚀
 ![Docker](https://img.shields.io/badge/-Docker-69b5cc?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-69b5cc?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/-Github-69b5cc?style=for-the-badge&logo=github)
-### Follow Me \ Связаться со мной
+### Follow Me
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:shidmiodi@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/dmshipov)
 
