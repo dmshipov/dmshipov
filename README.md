@@ -5,7 +5,7 @@ I am a data analyst with experience in organizing and analyzing legal informatio
 
 In my current role as a lead advisor, I analyze data on legal acts, prepare analytical reports, and participate in the development of specialized databases for legal information. 💻 
 
-I have been working with data for several years and have truly fallen in love with this field. I enjoy how disparate numbers can provide valuable insights and help businesses make informed decisions. 🤓 I’m like a detective, but instead of solving crimes, I investigate patterns in data! 
+I have been working with data for many years and have truly fallen in love with this field. I enjoy how disparate numbers can provide valuable insights and help businesses make informed decisions. 🤓 I’m like a detective, but instead of solving crimes, I investigate patterns in data!
 
 Feel free to check out my portfolio! 🚀
 
