@@ -1,19 +1,15 @@
-# Привет! Меня зовут Дмитрий - dmshipov
+# Hi! My name is Dmitry
 
-### 👨‍💻 About Me \ Обо мне
-Я - аналитик данных с опытом работы в области систематизации и анализа правовой информации. Моя мотивация стать специалистом в области Data Science возникла из желания оптимизировать процессы и повысить качество данных. 📊 📈
- 
-В своей текущей роли в качестве Аналитика Департамента систематизации законодательства Минюста России 
-анализирую данные о правовых актах РФ, готовлю аналитические отчеты и участвую в разработке специализированной <br>
-базы данных правовой информации. 💻 
+### 👨‍💻 About Me 
+I am a data analyst with experience in organizing and analyzing legal information. My motivation to become a specialist in Data Science arose from the desire to optimize processes and improve data quality. 📊 📈
 
-Мое стремление к постоянному развитию и обучению помогло поступить на магистерскую программу «Машинное обучение» <br> в НИЯУ МИФИ.  🚀
+In my current role as a lead advisor, I analyze data on legal acts, prepare analytical reports, and participate in the development of specialized databases for legal information. 💻 
 
-###  🤝  Employment status \ Статус занятости
+I have been working with data for several years and have truly fallen in love with this field. I enjoy how disparate numbers can provide valuable insights and help businesses make informed decisions. 🤓 I’m like a detective, but instead of solving crimes, I investigate patterns in data! 
 
-Готов к новым предложениям.
+Feel free to check out my portfolio! 🚀
 
-### Languages & Tools \ Языки и инструменты
+### Languages & Tools
 ![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-69b5cc?style=for-the-badge&logo=sql)
 ![SPostgreSQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
@@ -28,7 +24,7 @@
 
 ____
 
-#### Выполненные проекты 
+#### Completed Projects
 
 
 | №| Название проекта | Описание                                                     | Инструменты           |  
